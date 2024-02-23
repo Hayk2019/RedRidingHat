@@ -1548,7 +1548,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 66.983116
+  orthographic size: 60.5
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -3829,6 +3829,7 @@ GameObject:
   - component: {fileID: 1419666900}
   - component: {fileID: 1419666904}
   - component: {fileID: 1419666905}
+  - component: {fileID: 1419666906}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -3874,7 +3875,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.16, y: 0.31}
+    oldSize: {x: 0.16, y: 0.32}
     newSize: {x: 0.16, y: 0.31}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -3980,6 +3981,26 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Speed: 0
   Sideofmovement: 0
+--- !u!95 &1419666906
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1419666899}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 1676a1949a6fcb04aa84342b4f0c0346, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1466261423
 GameObject:
   m_ObjectHideFlags: 0
