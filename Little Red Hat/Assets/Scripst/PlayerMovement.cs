@@ -25,7 +25,7 @@ public class PlayerMovement : MonoBehaviour
     {
         Move();
         TrackFacing();
-        onGrounded = Physics2D.OverlapCircle(groundCheck.position, 0.075f, Ground);
+        TrackJumping();
     }
 
     public void Move(int x = 0) {
@@ -38,6 +38,10 @@ public class PlayerMovement : MonoBehaviour
             rb.velocity = new Vector2(rb.velocity.x, JumpForce);
         }
 
+    }
+    public void TrackJumping(){        
+        onGrounded = Physics2D.OverlapCircle(groundCheck.position, 0.075f, Ground);
+        JumpAnimation();
     }
     public void WalkButtonUp() {
         NormalSpeed = 0;
@@ -64,6 +68,10 @@ public class PlayerMovement : MonoBehaviour
 
     private void RunAnimation(){
         animator.SetFloat("Speed", Mathf.Abs(NormalSpeed));
+    }
+
+    private void JumpAnimation(){
+        animator.SetBool("OnGround", onGrounded);
     }
 
     public void Flip(){
