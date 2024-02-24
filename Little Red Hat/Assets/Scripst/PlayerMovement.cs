@@ -10,7 +10,10 @@ public class PlayerMovement : MonoBehaviour
     Rigidbody2D rb;
     public LayerMask Ground;
     public bool onGrounded;
+    public bool facingRight;
     Transform groundCheck;
+
+    public Animator animator;
     void Start()
     {
         groundCheck = transform.Find("GroundCheck");
@@ -21,13 +24,12 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
         Move();
-        onGrounded = Physics2D.OverlapCircle(groundCheck.position, 0.075f, Ground);
+        TrackFacing();
+        TrackJumping();
     }
 
     public void Move(int x = 0) {
-        {
-            rb.velocity = new Vector2(NormalSpeed, rb.velocity.y);
-        }
+        rb.velocity = new Vector2(NormalSpeed, rb.velocity.y);
     }
 
     public void Jump()
@@ -37,14 +39,43 @@ public class PlayerMovement : MonoBehaviour
         }
 
     }
+    public void TrackJumping(){        
+        onGrounded = Physics2D.OverlapCircle(groundCheck.position, 0.075f, Ground);
+        JumpAnimation();
+    }
     public void WalkButtonUp() {
         NormalSpeed = 0;
+        RunAnimation();
     }
     public void WalkButtonLeftDown() {
         NormalSpeed = -Speed;
+        RunAnimation();
     }
     public void WalkButtonRightDown()
     {
         NormalSpeed = Speed;
+        RunAnimation();
+    }
+
+    public void TrackFacing(){
+        if(NormalSpeed > 0 && facingRight){
+            Flip();
+        }
+        if(NormalSpeed < 0 && !facingRight){
+            Flip();
+        }
+    }
+
+    private void RunAnimation(){
+        animator.SetFloat("Speed", Mathf.Abs(NormalSpeed));
+    }
+
+    private void JumpAnimation(){
+        animator.SetBool("OnGround", onGrounded);
+    }
+
+    public void Flip(){
+        facingRight = !facingRight;
+        transform.Rotate(0, 180, 0);
     }
 }

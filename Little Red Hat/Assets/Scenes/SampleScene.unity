@@ -4116,6 +4116,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 64
   onGrounded: 0
+  animator: {fileID: 1419666906}
 --- !u!95 &1419666906
 Animator:
   serializedVersion: 4
