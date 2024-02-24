@@ -7,7 +7,6 @@ public class PlayerMovement : MonoBehaviour
     public float Speed;
     public float JumpForce;
     float NormalSpeed;
-    float horizontalMove;
     Rigidbody2D rb;
     public LayerMask Ground;
     public bool onGrounded;
@@ -55,10 +54,10 @@ public class PlayerMovement : MonoBehaviour
     }
 
     public void TrackFacing(){
-        if(NormalSpeed > 0 && !facingRight){
+        if(NormalSpeed > 0 && facingRight){
             Flip();
         }
-        if(NormalSpeed < 0 && facingRight){
+        if(NormalSpeed < 0 && !facingRight){
             Flip();
         }
     }
