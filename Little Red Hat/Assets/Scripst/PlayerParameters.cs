@@ -23,13 +23,13 @@ public class Blade : Weapon {
     }
 }
 
-public class Inventory  {
+public class Inventary  {
 }
 
 
 public class RedHat
 {
-    public RedHat(int health, int magicMana, MagicalAbility abl1, MagicalAbility abl2, Weapon weapon, Inventory inventory)
+    public RedHat(int health, int magicMana, MagicalAbility abl1, MagicalAbility abl2, Weapon weapon, Inventary inventory)
     {
         
         this.Health = health;
@@ -82,7 +82,7 @@ public class RedHat
     MagicalAbility m1;
     MagicalAbility m2;
     Weapon w1;
-    Inventory inventory_;
+    Inventary inventory_;
 }
 public class PlayerParameters : MonoBehaviour {
     [SerializeField] int Health;
@@ -96,7 +96,7 @@ public class PlayerParameters : MonoBehaviour {
         zenq = new Blade();
         MagicalAbility m1 = new MagicalAbility();
         MagicalAbility m2 = new MagicalAbility();
-        Inventory i1 = new Inventory();
+        Inventary i1 = new Inventary();
         myRedHat = new RedHat(Health, MagicManna, m1, m2, zenq, i1);
     }
 
