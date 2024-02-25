@@ -1,0 +1,2029 @@
+fileFormatVersion: 2
+guid: b3561c0578faaf74eb258a841e9f48a4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 515
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c00c5e05a85aa44f8098eebe0222c58
+      internalID: -605101987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 515
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165d9e4f350d12e428b4a9fb00c28f7a
+      internalID: -80645548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 521
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0537267d2064e4aafd5ce9a02bfca3
+      internalID: -1000241331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 521
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c453b1b4169c7e4e9c12489a1a30193
+      internalID: 1059517359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 521
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48f96390b1d11c47b523bb6a4b83f87
+      internalID: -542894146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 521
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32197af6a0933da43ad519fe8730e6ed
+      internalID: -1280561606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 494
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ece32f6adbadff4db8628c1fa1ea624
+      internalID: -2025451311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 499
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49bd749060143e46a2933e48089ce57
+      internalID: 833138341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 499
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89d96228b097094fafb40b5c7dc5573
+      internalID: -1717752148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b0b73609c977a478878a27a4c15be4
+      internalID: -523803436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 472
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ae9927a8a93a94aba5a86bd368958f
+      internalID: 1191483430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 477
+        width: 38
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1c08c6187da6f41a64569b3696a279
+      internalID: -1386098578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 477
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39721c541d64c1846a04695f4ae8b115
+      internalID: 671446796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 476
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6bb35357fdba94ea0960a329f2a849
+      internalID: 1239171468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 477
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0abe02d399ffe4798cd35cec5fe9f4
+      internalID: 717073747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 445
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24fe9924892f624ab834d013ae68d0e
+      internalID: 511911060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 445
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376bdef4731fc7247b50688d9a457ab6
+      internalID: 1565003330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 445
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6377cd3df5d543745a2cc2a22760f13b
+      internalID: 889862874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 445
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7190186acaaeac44b88c6d8505c07db
+      internalID: 1372906039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 445
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62152ce4d20ec8149a8568131c66cbcc
+      internalID: 842468023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 445
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a1f51d144473b49b25763f709b8d5e
+      internalID: -1344339235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 423
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f7e1794b9a54b48a8260f9cbe563b6
+      internalID: -1167161204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 426
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85d1a0d71df3dc4a98da59078f9c013
+      internalID: 1264690326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 423
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e217af56e37584fbc6a693e4609be7
+      internalID: -1839655716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 401
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b44a1833082de4da534da8d5be1095
+      internalID: 2109132785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 402
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bb19ee8aaffa44492559ce92e912ad
+      internalID: 228191536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 401
+        width: 36
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef373a18345ee247a90e55b5a59e325
+      internalID: 601556385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 401
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0a3696a17f82140b74ccd2377b0c35
+      internalID: 28642252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 400
+        width: 37
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54f5222ce26ce74781a64fe25ae6d56
+      internalID: -1360369012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 401
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99bdecdb2e0bf643943e9cd8988bedb
+      internalID: 679595248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 372
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7044ece75b05130469de1e0f383f0dfb
+      internalID: -1670219133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 372
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2417d6828abbc4ca8948e997e89e50
+      internalID: 956829424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 372
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97638af7f96a0b64a8eb918c44eca55c
+      internalID: 264039004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 372
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a656871eec39f4fbb3b7d89c1b87d7
+      internalID: 1321212819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 372
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a616a2d4cd64149459a14264f52d3699
+      internalID: -450458552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 372
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e117028109f2d643b2749fd363a55c1
+      internalID: 1263274073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 351
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06ab87015743ad4b8cdfea816f1880e
+      internalID: 1749406875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 350
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9452bd2a38b9748ba7082f197cdf3c
+      internalID: 705128402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 351
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62b49c4a5162174a9e3e7c28bc2656f
+      internalID: -177271326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 328
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80937826a1f4d31488d500a6e76aa792
+      internalID: 604984100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 329
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6c3ddf4e978864faf5d11a5ec9b696
+      internalID: -1173282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 328
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148392331f8f25846b6901abd797e889
+      internalID: 1204666895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 329
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfcddc6096e0c7468cb770ff37810b3
+      internalID: -586137380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 329
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abcac412054b6f4ebe248eef886c285
+      internalID: 1338904251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 329
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414f0a4c9e54a3f44a6dd5618538cabf
+      internalID: -1806501999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 302
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bbb116d8d77f143b563fc57f7b3878
+      internalID: -2026694073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 302
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ade2ae585a56e7419ea561e77d9f4a5
+      internalID: 935932911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 301
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b93b6a933765f844b8e19e0db7a39db
+      internalID: 1867406465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 301
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e968c5147f8ee41b8b49ee5627d087
+      internalID: -564174668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 302
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb69203936d87e14fafa36aa01ed6e2e
+      internalID: -294788573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 302
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f119f51b815cb644b0aea9e1c84bd0d
+      internalID: 107768131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 280
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619a01f1356c0624a8a40f39cfb2bfdd
+      internalID: -104600069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 282
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0170b70874daf04b982ce83df1a469e
+      internalID: -953945299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 261
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0dc093b6d59e84c87c6b0698efeff8
+      internalID: -802154807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 280
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5922fe44d48da124baf038d2e310514d
+      internalID: 150673381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 258
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3935aa13dbc866e439964c09786fb32d
+      internalID: 1535530010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 258
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de245b83db9a97346888ee2a43b10cf0
+      internalID: 433690510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 257
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39237285553c8da48b0aec21ccaa9e15
+      internalID: 645442646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 258
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027cf854c8070314aac90fa27c50b71a
+      internalID: 1998045529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 262
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38942002bd1f7a46baa6f73c5434f77
+      internalID: -512011879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 228
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7896ec678c725a4caa71d05c7a6f8e5
+      internalID: -794507746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 228
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc88428116efe84a9b73a7dff92eda3
+      internalID: 2026034058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 226
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c912446b6fb414a8b05925736dbc53
+      internalID: -121384347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 226
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2bf1c236320754b8400afa40ae68ab
+      internalID: -1038923031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 225
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccc70a90f20f804aba56bea8a2c6285
+      internalID: 687511161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 225
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a432d272cea68cd4e9bc67e4e2b9f215
+      internalID: -1904051194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28acd2303db7a5e4d9a565dc192113d3
+      internalID: 600953113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 206
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf22a893653142428994438a8657a58
+      internalID: -1083002695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 205
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9885a6fb754ec73438a5c4cf9321fd6c
+      internalID: 1462965340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 183
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2fd01322a6dcf4fa999346e474f630
+      internalID: -628636450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 203
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c99fe031c17984da1905bd6cb604ce
+      internalID: -831851775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 184
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a86289af5b3f47418c3b7c90a3ada47
+      internalID: -918882580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 182
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e93e126f2c510849b64faa08968cc75
+      internalID: -1155170558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 181
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5b97779d9bf06409143bf8391d7559
+      internalID: -1220444898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 182
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02653ab2449bbaf4e9040666a520e05e
+      internalID: 1724735704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 156
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fee6fd6893cbf643a7a53a67d0bee42
+      internalID: -2018652428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 156
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199d4b4477fdd7a4998364af02df8a49
+      internalID: -1161767585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 154
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567fd6e512aa04e4487df246821d4ca8
+      internalID: 2131300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 154
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a2156dc0e31d24eaa2c6610f9ce081
+      internalID: 945952683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 134
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee20da3718f1b2643b22d9ec5e933000
+      internalID: 1256783453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 135
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff69349ea06b3be4eac34bbe00f9c931
+      internalID: 204293135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_81
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 112
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3876540141f5534391d3d7f580f126e
+      internalID: 902985216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_82
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551fd0dd58036e1479e7ea12fc302b66
+      internalID: 677519608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_83
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 109
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacacfd4dc42c1d43a5b4440431e5a8c
+      internalID: -2078731852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxAsset1-removebg-preview_84
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 111
+        width: 41
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceba1563ac11424459638aa3e171fc00
+      internalID: 1300337585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FoxAsset1-removebg-preview_34: -450458552
+      FoxAsset1-removebg-preview_70: -831851775
+      FoxAsset1-removebg-preview_15: 511911060
+      FoxAsset1-removebg-preview_52: -953945299
+      FoxAsset1-removebg-preview_84: 1300337585
+      FoxAsset1-removebg-preview_23: -1839655716
+      FoxAsset1-removebg-preview_24: 2109132785
+      FoxAsset1-removebg-preview_20: -1344339235
+      FoxAsset1-removebg-preview_11: -1386098578
+      FoxAsset1-removebg-preview_73: -1220444898
+      FoxAsset1-removebg-preview_28: -1360369012
+      FoxAsset1-removebg-preview_71: -918882580
+      FoxAsset1-removebg-preview_7: 833138341
+      FoxAsset1-removebg-preview_51: -104600069
+      FoxAsset1-removebg-preview_12: 671446796
+      FoxAsset1-removebg-preview_4: -542894146
+      FoxAsset1-removebg-preview_47: 1867406465
+      FoxAsset1-removebg-preview_62: -121384347
+      FoxAsset1-removebg-preview_46: 935932911
+      FoxAsset1-removebg-preview_31: 956829424
+      FoxAsset1-removebg-preview_77: 2131300124
+      FoxAsset1-removebg-preview_18: 1372906039
+      FoxAsset1-removebg-preview_61: 2026034058
+      FoxAsset1-removebg-preview_10: 1191483430
+      FoxAsset1-removebg-preview_41: 1204666895
+      FoxAsset1-removebg-preview_42: -586137380
+      FoxAsset1-removebg-preview_39: 604984100
+      FoxAsset1-removebg-preview_8: -1717752148
+      FoxAsset1-removebg-preview_1: -80645548
+      FoxAsset1-removebg-preview_35: 1263274073
+      FoxAsset1-removebg-preview_17: 889862874
+      FoxAsset1-removebg-preview_76: -1161767585
+      FoxAsset1-removebg-preview_50: 107768131
+      FoxAsset1-removebg-preview_56: 433690510
+      FoxAsset1-removebg-preview_65: -1904051194
+      FoxAsset1-removebg-preview_63: -1038923031
+      FoxAsset1-removebg-preview_14: 717073747
+      FoxAsset1-removebg-preview_68: 1462965340
+      FoxAsset1-removebg-preview_66: 600953113
+      FoxAsset1-removebg-preview_60: -794507746
+      FoxAsset1-removebg-preview_29: 679595248
+      FoxAsset1-removebg-preview_40: -1173282
+      FoxAsset1-removebg-preview_69: -628636450
+      FoxAsset1-removebg-preview_36: 1749406875
+      FoxAsset1-removebg-preview_27: 28642252
+      FoxAsset1-removebg-preview_22: 1264690326
+      FoxAsset1-removebg-preview_72: -1155170558
+      FoxAsset1-removebg-preview_13: 1239171468
+      FoxAsset1-removebg-preview_16: 1565003330
+      FoxAsset1-removebg-preview_44: -1806501999
+      FoxAsset1-removebg-preview_48: -564174668
+      FoxAsset1-removebg-preview_58: 1998045529
+      FoxAsset1-removebg-preview_64: 687511161
+      FoxAsset1-removebg-preview_75: -2018652428
+      FoxAsset1-removebg-preview_33: 1321212819
+      FoxAsset1-removebg-preview_30: -1670219133
+      FoxAsset1-removebg-preview_78: 945952683
+      FoxAsset1-removebg-preview_2: -1000241331
+      FoxAsset1-removebg-preview_26: 601556385
+      FoxAsset1-removebg-preview_83: -2078731852
+      FoxAsset1-removebg-preview_54: 150673381
+      FoxAsset1-removebg-preview_25: 228191536
+      FoxAsset1-removebg-preview_32: 264039004
+      FoxAsset1-removebg-preview_81: 902985216
+      FoxAsset1-removebg-preview_74: 1724735704
+      FoxAsset1-removebg-preview_6: -2025451311
+      FoxAsset1-removebg-preview_49: -294788573
+      FoxAsset1-removebg-preview_3: 1059517359
+      FoxAsset1-removebg-preview_9: -523803436
+      FoxAsset1-removebg-preview_82: 677519608
+      FoxAsset1-removebg-preview_67: -1083002695
+      FoxAsset1-removebg-preview_38: -177271326
+      FoxAsset1-removebg-preview_79: 1256783453
+      FoxAsset1-removebg-preview_80: 204293135
+      FoxAsset1-removebg-preview_43: 1338904251
+      FoxAsset1-removebg-preview_0: -605101987
+      FoxAsset1-removebg-preview_59: -512011879
+      FoxAsset1-removebg-preview_45: -2026694073
+      FoxAsset1-removebg-preview_53: -802154807
+      FoxAsset1-removebg-preview_19: 842468023
+      FoxAsset1-removebg-preview_5: -1280561606
+      FoxAsset1-removebg-preview_21: -1167161204
+      FoxAsset1-removebg-preview_55: 1535530010
+      FoxAsset1-removebg-preview_37: 705128402
+      FoxAsset1-removebg-preview_57: 645442646
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
