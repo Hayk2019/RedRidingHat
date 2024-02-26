@@ -85,12 +85,11 @@ public class RedHat
     Inventary inventory_;
 }
 public class PlayerParameters : MonoBehaviour {
-    [SerializeField] int Health;
-    [SerializeField] int MagicManna;
+    [SerializeField] public  int Health;
+    [SerializeField] public  int MagicManna;
+    [SerializeField] Button Attack;
     RedHat myRedHat;
-    public Weapon zenq;
-    [SerializeField] Sprite MagicManaImage;
-    [SerializeField] Sprite HealthImage;
+    Weapon zenq;
     public void Start()
     {
         zenq = new Blade();
@@ -98,11 +97,9 @@ public class PlayerParameters : MonoBehaviour {
         MagicalAbility m2 = new MagicalAbility();
         Inventary i1 = new Inventary();
         myRedHat = new RedHat(Health, MagicManna, m1, m2, zenq, i1);
+        Attack.onClick.AddListener(delegate { myRedHat.Attack(); });
     }
 
-    public void Attack()
-    {
-        myRedHat.Attack();
-    }
+
 
 }

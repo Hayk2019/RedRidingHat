@@ -39,6 +39,9 @@ public class PlayerMovement : MonoBehaviour
         }
 
     }
+    public void Loger() {
+        Debug.Log("Jump");  
+    }
     public void TrackJumping(){        
         onGrounded = Physics2D.OverlapCircle(groundCheck.position, 0.075f, Ground);
         JumpAnimation();
